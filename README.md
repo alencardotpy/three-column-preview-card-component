@@ -1,31 +1,42 @@
-# Create React App
+# Frontend Mentor - 3-column preview card component solution
 
-This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
+This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Deploy Your Own
+## Table of contents
 
-Deploy your own Create React App project with Vercel.
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/create-react-app&template=create-react-app)
+## Overview
 
-_Live Example: https://create-react-template.vercel.app/_
+### The challenge
 
-## Available Scripts
+Users should be able to:
 
-In the project directory, you can run:
+- View the optimal layout depending on their device's screen size
+- See hover states for interactive elements
 
-### `npm start`
+### Links
 
-Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-The page will reload when you make changes. You may also see any lint errors in the console.
+## My process
 
-### `npm test`
+### Built with
 
-Launches the test runner in the interactive watch mode. See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
 
-### `npm run build`
+## Author
 
-Builds the app for production to the `build` folder.
-
-It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes.
+- GitHub - [alencarDotPy](https://github.com/alencardotpy)
+- Frontend Mentor - [@alencardotpy](https://www.frontendmentor.io/profile/alencardotpy)
+- Twitter - [@alencardotpy](https://www.twitter.com/alencardotpy)
