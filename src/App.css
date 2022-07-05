@@ -3,7 +3,8 @@
 .container{
     display:flex;
     flex-direction: column;
-    margin:10px auto;
+    align-self: center;
+    justify-self: center;
     border-radius: 10px;
     padding:0;
     width:auto;
@@ -111,9 +112,11 @@
     transition: ease-in 400ms;
    }
 
-   @media screen and (min-width:769px) {
+   @media screen and (min-width:965px) {
     body{
-        height: 100vh;
+        height:100vh;
+        min-height:100vh;
+        margin:0;
     }
     .container{
         display:flex;
