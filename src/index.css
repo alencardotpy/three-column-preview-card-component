@@ -1,4 +1,50 @@
 :root{
+  /*# Front-end Style Guide
+
+  #Layout
+  
+  The designs were created to the following widths:
+  */
+  --MobileWidth: 375px;
+  --DesktopWidth: 1440px;
+  /*
+  ## Colors
+  
+  ### Primary
+  */
+  --BrightOrange: hsl(31, 77%, 52%);
+  --DarkCyan: hsl(184, 100%, 22%);
+  --VeryDarkCyan: hsl(179, 100%, 13%);
+  /*
+  ### Neutral
+  */
+  --TansparantWhite: hsla(0, 0%, 100%, 0.75);
+  --VeryLightGray: hsl(0, 0%, 95%);
+  /*
+  ## Typography
+  
+  ### Body Copy
+  */
+  --FontSize: 15px;
+  /*
+  ### Font
+  */
+  --FontLexendFamily: 'Lexend Deca', sans-serif;
+  --FontLexendWeight: 400;
+  
+  --FontShouldersFamily: 'Big Shoulders Display', cursive;
+  --FontShouldersWeights: 700;
+  
   margin: 0;
   padding:0;
+}
+body{
+  margin:20px auto;
+  padding:0 10px;
+  min-height:1080px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
 }
